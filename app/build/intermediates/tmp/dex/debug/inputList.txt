@@ -1,0 +1,9 @@
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/classes/debug
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1492b4206063d4e9d698060c668bd6222d6f5682.jar
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-bd090fe2b0d07303debea3959c4714490a123988.jar
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-133b679ca774538d1eb211502db7f4c935123fd2.jar
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/jsoup-1.7.2-79911bfc6269975d5494e9b629be385e9e09d320.jar
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/baasbox-android-0.8.4-df6060c8b67518027bef60050cd897904c78f5c5.jar
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/classes-ce7c283cb3819d9c007d01b69ec58617b9440190.jar
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/classes-86040f177d2eb8ebd34edb35b23324f994e0aa33.jar
+/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/classes-8bc59f9aa396b3f25381adb131a19687c394f595.jar

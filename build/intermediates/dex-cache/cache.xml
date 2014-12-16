@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/emanuele/.gradle/caches/modules-2/files-2.1/com.baasbox/baasbox-android/0.8.4/830b85215828767c882ff6fcf35e344513a5d51/baasbox-android-0.8.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0830b85215828767c882ff6fcf35e344513a5d51">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/baasbox-android-0.8.4-df6060c8b67518027bef60050cd897904c78f5c5.jar" />
+    </item>
+    <item
+        jar="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/classes-86040f177d2eb8ebd34edb35b23324f994e0aa33.jar" />
+    </item>
+    <item
+        jar="/Users/emanuele/Library/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1492b4206063d4e9d698060c668bd6222d6f5682.jar" />
+    </item>
+    <item
+        jar="/Users/emanuele/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.2/91c20388c9a45f62b5ed8fe0502bb76ff6251fc7/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-bd090fe2b0d07303debea3959c4714490a123988.jar" />
+    </item>
+    <item
+        jar="/Users/emanuele/Documents/Workspace/android/mobihack3/app/libs/jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/jsoup-1.7.2-79911bfc6269975d5494e9b629be385e9e09d320.jar" />
+    </item>
+    <item
+        jar="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.21.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0285ad8da812e92dda76ed5d0dcba05724c7911d">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/classes-ce7c283cb3819d9c007d01b69ec58617b9440190.jar" />
+    </item>
+    <item
+        jar="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-133b679ca774538d1eb211502db7f4c935123fd2.jar" />
+    </item>
+    <item
+        jar="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/emanuele/Documents/Workspace/android/mobihack3/app/build/intermediates/pre-dexed/debug/classes-8bc59f9aa396b3f25381adb131a19687c394f595.jar" />
+    </item>
+
+</items>

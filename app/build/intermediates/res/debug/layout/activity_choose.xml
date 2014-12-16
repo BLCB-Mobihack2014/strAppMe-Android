@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/choose"
+    tools:context="it.mobihack.strappme.ChooseActivity" >
+
+    <ImageView
+        android:id="@+id/offro"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_above="@+id/cerco"
+        android:layout_alignLeft="@+id/cerco"
+        android:layout_alignStart="@+id/cerco" />
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+
+        android:id="@+id/cerco"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="55dp" />
+
+
+
+</RelativeLayout>
+<!-- From: file:/Users/emanuele/Documents/Workspace/android/mobihack3/app/src/main/res/layout/activity_choose.xml -->

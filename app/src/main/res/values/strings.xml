@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StrAppMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1742675245958098</string>
+    <string name="title_activity_choose">Cosa vuoi fare?</string>
+    <string name="title_activity_view_event">ViewEventActivity</string>
+    <string name="title_activity_offro">OffroActivity</string>
+    <string name="title_activity_cerco">CercoActivity</string>
+    <string name="title_activity_incoming_passenger">IncomingPassengerActivity</string>
+    <string name="title_activity_incoming_driver">IncomingDriverActivity</string>
+    <string name="title_activity_driver_landing">DriverLandingActivity</string>
+    <string name="title_activity_passenger_landing">PassengerLandingActivity</string>
+
+</resources>
