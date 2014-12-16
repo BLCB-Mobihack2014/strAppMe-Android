@@ -16,8 +16,8 @@ public class MyApplication extends Application {
         super.onCreate();
         //init baasbox
         //172.16.37.69
-        String host = "172.16.37.69";
-        //String host = "10.0.2.0";
+        //String host = "172.16.37.69";
+        String host = "10.0.2.0";
         box =BaasBox.builder(this).setAuthentication(BaasBox.Config.AuthType.SESSION_TOKEN)
                 .setApiDomain(host)
                 .setPort(9000)
